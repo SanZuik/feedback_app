@@ -1,0 +1,17 @@
+
+
+.container{
+    height:90vh;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    flex-direction:column;
+}
+
+
+
+*{
+    text-align:center;
+    margin:5px 8px;
+}
+
